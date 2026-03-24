@@ -1,4 +1,4 @@
-# My Journey to EA Sports 🎮 (Mi camino a EA)
+# My Journey to EEUU🎮 (Mi camino a EEUU)
 
 Este es mi primer repositorio de código. Estoy empezando mi formación en **SMR** y **DAM** con el objetivo de trabajar en la industria de los videojuegos.
 
@@ -13,5 +13,5 @@ Este es mi primer repositorio de código. Estoy empezando mi formación en **SMR
 *   **GitHub Basics**: Creating repositories and commits (Crear repositorios y subidas).
 
 ---
-*Future Software Engineer at EA Madrid / USA* 🚀
+*Future Software Engineer at EEUU 🚀
 
