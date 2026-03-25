@@ -1,4 +1,4 @@
-# My Journey to EEUU🎮 (Mi camino a EEUU)
+# My Journey to USA🎮 (Mi camino a USA)
 
 Este es mi primer repositorio de código. Estoy empezando mi formación en **SMR** y **DAM** con el objetivo de trabajar en la industria de los videojuegos.
 
