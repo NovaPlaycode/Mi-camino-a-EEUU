@@ -13,5 +13,5 @@ Este es mi primer repositorio de código. Estoy empezando mi formación en **SMR
 *   **GitHub Basics**: Creating repositories and commits (Crear repositorios y subidas).
 
 ---
-*Future Software Engineer at EEUU 🚀
+
 
